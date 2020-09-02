@@ -3,6 +3,6 @@ To add your file to this repo please follow the following guidelines:
 <li> Create a new branch called <b>wheni</b>
 <li> Create a new file called <b>WHEN-I</b>
 <li> This file contains the completed "When I.." given in readme and you can add more "When I"s if you wish
-<li> Add and commit this file to <b>wheni</b> branch 
+<li> Add and commit (comment must contain your name) this file to <b>wheni</b> branch 
 <li> Push the code to your forked repo
 <li> Create a PR and let us review it
